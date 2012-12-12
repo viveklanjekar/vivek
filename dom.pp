@@ -1,6 +1,6 @@
 host {
 "puppet":
-ip => "172.30.30.228"
+ip => "172.18.10.27"
 }
 exec {
 "/etc/default/puppet":
